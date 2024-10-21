@@ -11,7 +11,7 @@ const LatestCollection = () => {
 
     useEffect(() => {
         setLatestProducts(products.slice(0,10));
-    }, [])
+    }, [products])
 
     return (
         <div className='my-10'>
@@ -20,7 +20,6 @@ const LatestCollection = () => {
                 <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                 </p>
             </div>
 
