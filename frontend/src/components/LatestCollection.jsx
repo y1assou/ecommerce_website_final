@@ -18,8 +18,7 @@ const LatestCollection = () => {
             <div className='text-center py-8 text-3xl'>
                 <Title text1={'LATEST'} text2={'COLLECTION'} />
                 <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    Explore our newest arrivals featuring elegant traditional clothing. Each piece is crafted with care, blending cultural heritage with modern fashion trends. Discover the collection now! 
                 </p>
             </div>
 

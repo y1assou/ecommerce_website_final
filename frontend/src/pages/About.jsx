@@ -15,20 +15,14 @@ const About = () => {
 
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
           <p>
-            Forever was born out of a passion for innovation and a desire to revolutionize the way people shop online. 
-            Our journey began with a simple idea: to provide a platform where customers can easily discover,
-            explore, and purchase a wide range of products from the comfort of their homes.
+            AFOS made was born out of a passion for preserving tradition and celebrating cultural heritage. Our journey began with a simple idea: to create a platform where customers can easily discover and purchase beautifully crafted traditional clothing from the comfort of their homes.
           </p>
           <p>
-            Since our inception, we've worked tirelessly to curate a diverse selection of 
-            high-quality products that cater to every taste and preference. 
-            From fashion and beauty to electronics and home essentials, 
-            we offer an extensive collection sourced from trusted brands and suppliers.
+            Since our inception, we’ve been committed to curating a unique collection of high-quality garments that honor timeless craftsmanship. From elegant kaftans and djellabas to finely embroidered abayas, our products reflect the richness of tradition while catering to modern tastes.
           </p>
           <b className='text-gray-800'>Our Mission</b>
           <p>
-            Our mission at Forever is to empower customers with choice, convenience, and confidence. We're dedicated to providing a 
-            seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.
+            At Afos made, our mission is to empower customers with choice, convenience, and cultural connection. We're dedicated to providing a seamless shopping experience, from exploring our collection to receiving timeless pieces delivered to your door.
           </p>
         </div>
       </div>

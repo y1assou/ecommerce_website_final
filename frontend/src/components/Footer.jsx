@@ -9,7 +9,7 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-600 '>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nisi ut totam nam suscipit,
+                    AFOS made is an online store offering traditional clothes, blending timeless designs with modern styles. Discover a collection of beautifully crafted garments inspired by cultural heritage.
                 </p>
             </div>
 
@@ -27,7 +27,7 @@ const Footer = () => {
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
                     <li>+212 xxxxxxxx</li>
-                    <li>contact@foreveryou.com</li>
+                    <li>contact@AFOS.com</li>
                 </ul>
             </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
         {/* copyright text */}
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ forever.com - All Right Preserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ AFOSmade.com - All Right Preserved.</p>
         </div>
     </div>
   )
